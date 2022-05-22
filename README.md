@@ -1,23 +1,17 @@
-# Breaking Bad
-<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
-![Version](https://img.shields.io/badge/version-1.69-brightgreen.svg)
-![Optimization](https://img.shields.io/badge/optimised-0%25-critical.svg)
-![Built with Love](https://img.shields.io/badge/built%20with-love-important.svg)
-![Designing](https://img.shields.io/badge/designed%20in-ms%20paint-blueviolet.svg)
+# BreakingBad
 
-This project was developed by us, **Team ECMAniacs**, as a submission for [Hack36 5.0](https://www.hack36.com/)
 
-*Update* : Ended up securing a Top 10 rank in the Hackathon(among 100+ teams)
+This project was developed by us, **Team Jupiter**
+
 
 ## Resources
-- [PPT](https://docs.google.com/presentation/d/1fYIHUMnGWKTnOIMAlDmV1EFZmSDFJ2t9/edit?usp=sharing&ouid=106037366898639542846&rtpof=true&sd=true)
-- [Video Demo](https://youtu.be/5V1p-XePHN4)
+- [PPT](https://docs.google.com/presentation/d/1vugyK7uB-tNwixAzP1h-AekcO23VNyw1i5kpQZqYEsg/edit?usp=sharing)
+- [Video Demo](https://youtu.be/6RQyqa3RLoc)
 
-## Team ECMAniacs
-- [Aqib Suhail](https://github.com/geeqib23)
-- [Dennis Thomas](https://github.com/DNA5769)
-- [Akash Kandasamy](https://github.com/akash-kd)
-- [Kushagra Sharma](https://github.com/randomkush)
+## Team Jupiter
+- Vanshika Srivastava
+- Vedika Chauhan
+
 
 ---
 
